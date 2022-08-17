@@ -33,4 +33,5 @@ pode ser dividido em diversas partes (threads, por exemplo).
 ## Aprofundamento de Estudos
 
 [Introdução ao Linux](http://repositoriocanvas.unisinos.br/Fundamentos_Sistemas_Operacionais/m2/vivencia_na_area/index.html)
+
 [Basic UNIX commands](https://mally.stanford.edu/~sr/computing/basic-unix.html)
