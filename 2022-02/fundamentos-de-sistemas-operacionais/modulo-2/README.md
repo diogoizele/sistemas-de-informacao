@@ -30,6 +30,9 @@ pode ser dividido em diversas partes (threads, por exemplo).
 ![Escalonamento de processos](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter3/3_06_QueueingDiagram.jpg)
 ![Escalonamento de processos](https://media.geeksforgeeks.org/wp-content/uploads/20200822112752/timeslice1bg.jpg)
 
+### Chamadas de sistema
+![Chamadas de sistema](https://upload.wikimedia.org/wikipedia/commons/4/45/Linux_kernel_System_Call_Interface_and_glibc.svg)
+
 ## Aprofundamento de Estudos
 
 [Introdução ao Linux](http://repositoriocanvas.unisinos.br/Fundamentos_Sistemas_Operacionais/m2/vivencia_na_area/index.html)
