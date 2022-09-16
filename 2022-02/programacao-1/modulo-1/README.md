@@ -6,14 +6,14 @@ Ao começar a estudar programação, se faz necessário conhecer alguns aspectos
 
 Existem conceitos básicos sobre lógica de programação. Utilizando os comandos que atuam nas unidades básicas de um computador: a unidade de entrada, a unidade de saída e a memória.
 
-#### O que é um computador? 🤔
+### O que é um computador? 🤔
 
 Um computador é uma máquina constituída por uma combinação
 de componentes eletrônicos e que pode ser programada. A parte física é
 denominada hardware. Para que essa máquina seja útil, ela deve ser
 dotada de software, que são os programas.
 
-#### Unidades básicas de um computador
+### Unidades básicas de um computador
 
 Basicamente, a **arquitetura** dos computadores modernos é baseada
 na arquitetura proposta por [**Von Neumann**](https://pt.wikipedia.org/wiki/John_von_Neumann) há aproximadamente meio
@@ -27,7 +27,7 @@ Von Neumann tinha cinco unidades básicas:
 - Unidade de Entrada e Saída (E/S ou I/O)
 - Memória Principal (RAM)
 
-#### Unidade mínima de informação
+### Unidade mínima de informação
 
 A unidade mínima de informação é o **\*BI**naryDigi**T\*** ou popularmente conhecido como **bit**. O valor de um bit pode ser 0 ou 1, por isso, também pode ser conhecido como dígitos binários.
 
@@ -43,7 +43,7 @@ O computador funciona sob o controle de um programa
 armazenado, executando instrução por instrução. Tanto a sequência de
 instruções como os dados estão na forma binária.
 
-#### Desenvolvimento de Software 🧩
+### Desenvolvimento de Software 🧩
 
 A programação é uma das últimas fases do desenvolvimento de um
 software, pois antes da programação deve-se analisar e projetar a
@@ -51,14 +51,14 @@ solução.
 O software deve surgir como resposta às necessidades do mundo
 real e deve atender adequadamente a essas necessidades.
 
-#### Paradigmas de Programação
+### Paradigmas de Programação
 
 Considerando que paradigma é a forma de organizar e visualizar o
 conjunto de programas que constitui o software, então o paradigma
 adotado é que determina a forma como abstrair e, consequentemente,
 desenvolver o software.
 
-#### Orientação a Objetos
+### Orientação a Objetos
 
 A Programação Orientada a Objetos (POO), ou ainda, em inglês, Object-
 Oriented Programming (OOP), é um paradigma baseado na
@@ -67,7 +67,7 @@ modularização em unidades de software, chamadas classes.
 A partir das classes são criados objetos que, em tempo de execução,
 interagem e cooperam entre si.
 
-#### O que é um Programa de Computador?
+### O que é um Programa de Computador?
 
 Para escrever um programa necessita-se de uma linguagem de
 programação. A única linguagem entendida pelo computador é a
@@ -91,7 +91,7 @@ construídos para as diferentes arquiteturas de processadores, pois
 diferentes famílias de processadores possuem conjuntos distintos de
 instruções.
 
-#### Como é programar em Java? 🐗
+### Como é programar em Java? 🐗
 
 O compilador da linguagem Java não gera código para um
 processador específico, mas sim para uma máquina virtual Java
@@ -109,7 +109,7 @@ programa, seguindo as ações especificadas pelos bytecodes, que nada
 mais são do que os comandos codificados pelo programador, porém na
 linguagem da máquina.
 
-#### Comandos
+### Comandos
 
 Comandos ou instruções são as ordens dadas ao computador para
 que este realize as tarefas especificadas pelo programador.
