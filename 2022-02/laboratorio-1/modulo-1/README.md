@@ -14,7 +14,7 @@ Em Java:
 
 - `int idade = 20;`
 - `double peso = 65.5;`
-- `char sexo = 'M'`;
+- `char sexo = 'M';`
 
 o valor da variável também pode receber uma expressão, como no exemplo:
 
@@ -26,9 +26,9 @@ A tela é usada como unidade padrão de saída. Os comandos de saída também s�
 
 Na linguagem Java, existem 3 formas básicas de trabalhar com saída de dados:
 
-a. `System.out.print(<O que será exibido>);`
-b. `System.out.println(<O que será exibido>);`
-c. `System.out.printf(<"formatação">, ...atributos);`
+1. `System.out.print(<O que será exibido>);`
+2. `System.out.println(<O que será exibido>);`
+3. `System.out.printf(<"formatação">, ...atributos);`
 
 Na sintaxe a, exibe os itens e o cursor permanece na mesma linha.
 Na sintaxe b, exibe os itens e o cursor vai para a próxima linha.
@@ -36,18 +36,19 @@ Na sintaxe c, é possível especificar o formato (número de casas
 decimais e outros) como os itens devem ser exibidos, aplicando os
 códigos de formatação.
 
-%d – será substituído por um valor decimal (valores inteiros);
-%f – será substituído por um valor real (%8.2f reservando 8
-posições da tela, das quais 2 serão usadas para as casas
-decimais);
-%c – será substituído por um caractere;
-%s – será substituído por uma cadeia de caracteres.
+- %d – será substituído por um valor decimal (valores inteiros);
+- %f – será substituído por um valor real (%8.2f reservando 8
+  posições da tela, das quais 2 serão usadas para as casas
+  decimais);
+- %c – será substituído por um caractere;
+- %s – será substituído por uma cadeia de caracteres.
 
 Alguns caracteres têm um significado especial, dentro de aspas,
 nos métodos de saída:
-\n nova linha
-\f nova tela
-\t tabulação
+
+- \n nova linha
+- \f nova tela
+- \t tabulação
 
 ## Classes e Objetos
 
