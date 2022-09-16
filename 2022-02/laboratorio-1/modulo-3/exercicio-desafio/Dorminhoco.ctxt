@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Dorminhoco
+comment1.params=diaDaSemana\ ferias
+comment1.target=boolean\ estaDormindo(boolean,\ boolean)
+comment1.text=\r\n\ O\ par\u00E2metro\ diaDaSemana\ \u00E9\ true\ se\ for\ um\ dia\ da\ semana\r\n\ e\ o\ par\u00E2metro\ ferias\ \u00E9\ true\ se\ estamos\ em\ f\u00E9rias.\ \r\n\ \r\n\ -->\ N\u00F3s\ dormimos\ somente\ quando\ n\u00E3o\ \u00E9\ dia\ da\ semana\ ou\ \r\n\ quando\ estamos\ em\ f\u00E9rias.\ \r\n\ \r\n\ Neste\ caso,\ quando\ estamos\ dormindo\ o\ m\u00E9todo\ deve\ \r\n\ retornar\ true.\r\n
+numComments=2

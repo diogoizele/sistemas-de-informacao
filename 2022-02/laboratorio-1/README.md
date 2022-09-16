@@ -6,3 +6,4 @@ A disciplina de Laboratório I tem como objetivo a aplicação prática dos conc
 
 - [Módulo 01 - Conceitos Básicos de Programação](modulo-1/)
 - [Módulo 02 - Modelagem e Orientação a Objetos](modulo-2/)
+- [Módulo 03 - Estruturas de Seleção](modulo-3/)
