@@ -30,9 +30,9 @@ Na linguagem Java, existem 3 formas básicas de trabalhar com saída de dados:
 2. `System.out.println(<O que será exibido>);`
 3. `System.out.printf(<"formatação">, ...atributos);`
 
-- Na sintaxe a, exibe os itens e o cursor permanece na mesma linha.
-- Na sintaxe b, exibe os itens e o cursor vai para a próxima linha.
-- Na sintaxe c, é possível especificar o formato (número de casas
+- Na sintaxe 1, exibe os itens e o cursor permanece na mesma linha.
+- Na sintaxe 2, exibe os itens e o cursor vai para a próxima linha.
+- Na sintaxe 3, é possível especificar o formato (número de casas
   decimais e outros) como os itens devem ser exibidos, aplicando os
   códigos de formatação.
   - `%d` – será substituído por um valor decimal (valores inteiros);
