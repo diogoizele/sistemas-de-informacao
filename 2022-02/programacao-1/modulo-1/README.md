@@ -29,7 +29,7 @@ Von Neumann tinha cinco unidades básicas:
 
 ### Unidade mínima de informação
 
-A unidade mínima de informação é o **\*BI**naryDigi**T\*** ou popularmente conhecido como **bit**. O valor de um bit pode ser 0 ou 1, por isso, também pode ser conhecido como dígitos binários.
+A unidade mínima de informação é o _**BI**naryDigi**T**_ ou popularmente conhecido como **bit**. O valor de um bit pode ser 0 ou 1, por isso, também pode ser conhecido como dígitos binários.
 
 O conjunto de 8 bits representam 1 byte, portanto:
 
