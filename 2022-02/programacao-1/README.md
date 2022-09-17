@@ -4,4 +4,4 @@ Esta disciplina aborda desde o entendimento dos conceitos básicos da programaç
 
 - [Módulo 01 - Conceitos Básicos de Programação](modulo-1/)
 - [Módulo 02 - Modelagem e Orientação a Objetos](modulo-2/)
-- [Módulo 06 - Bibliotecas do Java](modulo-6/)
+- [Módulo 03 - Bibliotecas do Java](modulo-3/)
