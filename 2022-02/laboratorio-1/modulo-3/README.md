@@ -26,57 +26,21 @@ Essa classe irá conter todos os comandos necessários para chamar os métodos d
 
 - O pacote Java.lang contém as classes básicas para a programação Java e não precisa ser explicitamente importado pois já é feito automaticamente.
 - Para realizar o import utilizamos `import <nome do pacote>`
-- `import Java.util`
+- Por exemplo `import Java.util`
 
-## Desafio
+### Classe Scanner 🪀
 
-Dadas as seguintes informações:
+Importação da biblioteca `import java.util.Scanner;`
 
-### Contexto do problema (a equipe utilizou a técnica de cenário e personas para entender o problema)
+A classe `scanner` permite a leitura de
+uma informação através do teclado do console.
 
-Lucas está iniciando o seu curso de Engenharia Elétrica em uma das melhores
-Universidades privadas do Brasil. Ele tem 17 anos e mora em uma cidade do interior e,
-tanto ele como todos da sua família estão muito felizes por esta oportunidade. Porém,
-Lucas também está muito ansioso pois nunca estudou em uma modalidade EaD. Além disso,
-como ele é bastante tímido, está preocupado em não conseguir fazer amigos nesta
-modalidade de estudo. Ele sabe que conhecer novas pessoas pode ser uma ótima opção para
-ajudá-lo a avançar o seu conhecimento durante os seus estudos.
+Em resumo:
 
-### Entendimento do problema
+- `nextInt();` para ler um valor do tipo int
+- `nextFloat();` para ler um valor do tipo float
+- `nextDouble();` para ler um valor do tipo double
+- `nextChar();` para ler um valor do tipo character
+- `nextLine()` para ler um valor do tipo String
 
-1. Quem são os usuários?
-
-- Alunos ingressantes na Universidade na modalidade EaD
-
-2. Qual é a principal atividade do usuário?
-
-- Estudar
-
-3. Quando e onde ele realiza a atividade?
-
-- Principalmente em casa
-
-4. Quais problemas percebidos na realização da atividade?
-
-- Dificuldade de se concentrar nas atividades acadêmicas, visto que seu principal ambiente de estudo é em casa.
-- Pouco conhecimento da área de estudo.
-- Grande expectativa do aluno e da família com a oportunidade.
-- Não tem amigos fazendo a mesma atividade.
-
-### Visão do projeto
-
-1. Quais são as principais dificuldades do usuário?
-
-- Timidez e Relacionamento com novos colegas.
-- Não conhece nada sobre o curso que está iniciando.
-- Tem muita preocupação com o seu desempenho acadêmico.
-- O ambiente de estudo (em casa) tem bastante distração.
-
-2. Quais são as necessidades do usuário?
-
-- Precisa de algo para auxiliar na concentração durante os estudos.
-- Também precisa de algo para facilitar o contato com os colegas do curso que têm os mesmos interesses para aprendizado colaborativo.
-
-3. Como podemos melhorar a experiência do usuário?
-
-- Projetar um ambiente EaD que utilize as tecnologias para auxiliar o estudante na realização de suas atividades e também para aproximar os estudantes com base nos mesmos interesses estimulando a criação de grupos de estudos online durante o semestre.
+Depois de fazer o import, o primeiro passo é fazer a instanciação da classe: `Scanner reader = new Scanner(System.in);`
