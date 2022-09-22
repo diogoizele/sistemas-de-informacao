@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=TesteFun4Study
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=Cidade\ criarCidade()
+comment2.text=\r\n\ M\u00E9todo\ para\ simplificar\ a\ cria\u00E7\u00E3o\ de\ uma\ cidade\r\n\ usando\ a\ classe\ Teclado.\r\n
+comment3.params=cidade
+comment3.target=Estudante\ criarEstudante(Cidade)
+comment3.text=\r\n\ M\u00E9todo\ para\ simplificar\ a\ cria\u00E7\u00E3o\ de\ um\ estudante.\r\n\ \r\n\ O\ m\u00E9todo\ recebe\ como\ par\u00E2metro\ a\ cidade\ a\ qual\ o\r\n\ estudante\ pertence\ e\ retorna\ o\ pr\u00F3prio\ estudante.\r\n
+comment4.params=estudante
+comment4.target=void\ alterarSenha(Estudante)
+comment4.text=\r\n\ M\u00E9todo\ que\ recebe\ o\ estudante\ como\ par\u00E2metro\r\n\ e\ altera\ a\ senha\ do\ mesmo.\r\n
+numComments=5
