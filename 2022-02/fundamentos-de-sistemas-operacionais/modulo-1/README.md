@@ -59,3 +59,5 @@ pode fazer referência há muitas coisas:
 **Vídeo aula** | [Operating Systems: Crash Course Computer Science #18](https://www.youtube.com/watch?v=26QPDBe-NB8)
 
 **Vídeo aula** | [What is a kernel - Gary explains](https://www.youtube.com/watch?v=mycVSMyShk8)
+
+**Vídeo aula** | [Multitasking vs Multithreading vs Multiprocessing](https://www.youtube.com/watch?v=Tn0u-IIBmtc)
