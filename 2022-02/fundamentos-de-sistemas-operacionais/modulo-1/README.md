@@ -1,6 +1,6 @@
 # Módulo 01 - Conceitos Iniciais
 
-O **Sistema Operacional** o conjunto de programas que gerenciam:
+**Sistema Operacional** é o conjunto de programas que gerenciam:
 
 - recursos;
 - processadores;
@@ -22,8 +22,9 @@ Dentre as funções básicas de um sistema operacional em computadores, destaca-
 
 Em suma, o sistema operacional interpreta comandos do usuário, controla periféricos e organiza arquivos em disco.
 
-Ao contrário do que muitos acreditam, o computador não possui inteligencia e não faz nada sozinho. Ele apena processa uma série de informações inseridas pelo usuário e expressa seu resultado.
-Para facilitar essa comunicação entre homem e máquina, foram criados os _Softwares_ ou programas de computador. Para se ter noção, tudo que é feito em um computador é através da execução desses programas.
+Ao contrário do que muitos acreditam, o computador não possui inteligência e não faz nada sozinho. Ele apenas processa uma série de informações inseridas pelo usuário e expressa seu resultado.
+Para facilitar essa comunicação entre homem e máquina, foram criados os _Softwares_ ou programas de computador. 
+Para se ter noção, tudo que é feito em um computador é através da execução desses programas.
 
 De forma simples, pode-se definir um sistema operacional como sendo um conjunto de rotinas executadas pelo processador com a principal função de controlar o funcionamento do computador, gerenciando os diversos recursos disponíveis no sistema.
 
@@ -49,7 +50,7 @@ De um modo geral, os programas que o usuário utiliza não são escritos para um
 > utilizada pela linguagem Java.
 
 ### O termo Micro 🦠
-Em tecnologia da informação, o termo Micro
+Em tecnologia da informação, o termo **Micro**
 pode fazer referência há muitas coisas:
 - **Microcomputador** - nada mais é que um computador normal atual. Portando, um microcomputador é um computador pequeno (em relação aos primeiros computadores que ocupavam andares inteiros de prédios) e relativamente barato com um microprocessador como unidade central de processamento (CPU);
 - **Microprocessador** - O processador em um único chip é chamado de microprocessador que pode processar microinstruções (instruções na forma de 0s e 1s);
