@@ -39,7 +39,7 @@ O sistema operacional é responsável pelas seguintes atividades relacionadas à
 - Suspender e retomar processos;
 - Fornecer mecanismos para a `sincronização` de processos;
 - Fornecer mecanismos para a `comunicação` de processos;
-- Fornecer mecanismos para o `tratamento de _deadlocks_`.
+- Fornecer mecanismos para o `tratamento de deadlocks`.
 
 ### Deadlocks ☠
 
