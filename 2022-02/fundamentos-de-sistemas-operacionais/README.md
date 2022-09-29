@@ -15,3 +15,5 @@ Sistemas de arquivos estruturados com log.
 - [Módulo 04 - Gerenciamento de Memória](modulo-4/)
 
 - **Complemento** | [Operating System](https://www.youtube.com/watch?v=vBURTt97EkA&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
+
+- **Complemento - Livro** | [Sistemas Operacionais](08_sistemas_operacionais.pdf)
