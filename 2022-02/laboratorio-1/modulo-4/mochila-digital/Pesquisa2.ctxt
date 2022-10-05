@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Pesquisa2
+comment0.text=\r\n\ Objetivo\:\ Objeto\ de\ pesquisa\ que\ solicita\ ao\ novo\ aluno\ a\ descri\u00E7\u00E3o\ do\ curso\ que\ ele\ gostaria\ de\ realizar\ \r\n\ e\ qual\ o\ seu\ or\u00E7amento\ estimado\ por\ semestre;\r\n\ Assim,\ ser\u00E1\ poss\u00EDvel\ determinar\ o\ curso\ ideal\ para\ o\ seu\ perfil;\ \r\n\ Ainda,\ possibilita\ que\ ele\ possa\ alterar\ o\ valor\ e\ a\ descri\u00E7\u00E3o\ da\ pesquisa\ a\ qualquer\ tempo\ para\ nova\ an\u00E1lise;\r\n\ Aluna\:\ J\u00FAlia\ Perini\r\n\ vers\u00E3o\ 2\ (30/09/22)\r\n\ Na\ vers\u00E3o\ 2,\ \u00E9\ poss\u00EDvel\ selecionar\ a\ modalidade\ do\ curso\ da\ pesquisa\:\ gradua\u00E7\u00E3o,\ p\u00F3s-gradua\u00E7\u00E3o,\ doutorado\ ou\ mestrado;\r\n
+comment1.params=codPesq\ nomA\ descC\ valEs\ mod
+comment1.target=Pesquisa2(int,\ java.lang.String,\ java.lang.String,\ double,\ char)
+comment2.params=
+comment2.target=int\ getCodigoPesquisa()
+comment3.params=
+comment3.target=java.lang.String\ getNomeAluno()
+comment4.params=
+comment4.target=java.lang.String\ getDescricaoCurso()
+comment5.params=
+comment5.target=double\ getValorEstimado()
+comment6.params=novaDesc
+comment6.target=void\ setDescricaoCurso(java.lang.String)
+comment7.params=novoVal
+comment7.target=void\ setValorEstimado(double)
+comment8.params=
+comment8.target=java.lang.String\ retornaModalidade()
+comment9.params=
+comment9.target=void\ exibeDados()
+numComments=10

@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Mochila
+comment0.text=\r\n\ Objeto\:\ Mochila\r\n\ A\ classe\ mochila\ \u00E9\ a\ representa\u00E7\u00E3o\ digital\ de\ uma\ mochila\ de\ estudante\r\n\ no\ sistema.\ Nela\ poder\u00E1\ ser\ armazenado\ alguns\ dados\ \u00FAteis\ ao\ estudante.\r\n\ \r\n\ @author\ (Diogo\ Izele)\ \r\n\ @version\ (1.0.0)\r\n
+comment1.params=minhaMatricula\ blocoDeNotas\ linkDasAulas\ semestreAtual
+comment1.target=Mochila(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment10.params=novoLink
+comment10.target=void\ adicionaLink(java.lang.String)
+comment11.params=semestre
+comment11.target=void\ exibeQuantidadeMateriasSemestre(int)
+comment11.text=\r\n\ M\u00E9todo\ criado\ no\ m\u00F3dulo\ 4\ para\ referente\ aos\ comandos\ de\ SELE\u00C7\u00C3O\r\n\ \r\n\ O\ m\u00E9todo\ recebe\ o\ semestre\ que\ o\ estudante\ quer\ saber,\ e\ imprime\r\n\ na\ tela\ a\ quantidade\ de\ mat\u00E9rias\ que\ o\ curso\ tem\ naquele\ semestre;\r\n
+comment2.params=minhaMatricula
+comment2.target=void\ setMinhaMatricula(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getMinhaMatricula()
+comment4.params=blocoDeNotas
+comment4.target=void\ setBlocoDeNotas(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getBlocoDeNotas()
+comment6.params=linkDasAulas
+comment6.target=void\ linkDasAulas(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getLinkDasAulas()
+comment8.params=semestreAtual
+comment8.target=void\ semestreAtual(int)
+comment9.params=
+comment9.target=int\ getSemestreAtual()
+numComments=12
