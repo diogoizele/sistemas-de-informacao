@@ -73,7 +73,6 @@ public class Estudante {
          System.out.println("Data de nascimento: " + dataNascimento);
          System.out.println("Email: " + email);
          System.out.println("Senha: " + senha);
-         
-         cidade.exibeDados();
+         System.out.println("Cidade: " + cidade.getDescricao() + "\n");
     }    
 }

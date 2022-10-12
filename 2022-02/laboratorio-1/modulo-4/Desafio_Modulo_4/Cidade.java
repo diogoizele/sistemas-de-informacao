@@ -23,6 +23,10 @@ public class Cidade {
         return uf;
     }
     
+    public int getQuantidadeEstudantes() {
+        return quantidadeEstudantes;
+    }
+    
     public void setDescricao(String descricao) {
         this.descricao = descricao;
     }
