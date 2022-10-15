@@ -52,7 +52,7 @@ Proposições:
 
 > 🎉 A ∧ B
 
-### Um pouco de histórica 🧝‍♂️
+### Um pouco de história 🧝‍♂️
 
 #### Aristóteles
 
