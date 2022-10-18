@@ -17,9 +17,13 @@ Na lógica proposicional, existem 5 operadores:
 4. [Implicação](operadores-logicos/implicacao.md) (→);
 5. [Bi-implicação](operadores-logicos/bi-implicacao.md) (↔).
 
+### Tabela Verdade 🍏
+
+Para conferir na íntegra como montar uma tabela verdade - [Clique Aqui](tabela-verdade/README.md).
+
 ## Proposição 🗣
 
-Uma proposição é uma sentença afirmativa da língua portuguesa que assume um de dois valores-verdade: verdadeira (V) ou falsa (F).
+Uma proposição é uma sentença afirmativa da linguagem natural, que assume um de dois valores-verdade: verdadeira (V) ou falsa (F).
 
 #### Exemplos de proposições
 
