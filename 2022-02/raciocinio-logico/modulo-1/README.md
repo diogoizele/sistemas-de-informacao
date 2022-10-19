@@ -21,6 +21,8 @@ Na lógica proposicional, existem 5 operadores:
 
 Para conferir na íntegra como montar uma tabela verdade - [Clique Aqui](tabela-verdade/README.md).
 
+- **Planilha para exercícios de tabela verdade** - [Clique Aqui](https://docs.google.com/spreadsheets/d/15UCC2qn3jW51BdkO50zq_tsAzzruve6FvFGLVqyrPGA/edit?usp=sharing)
+
 ## Proposição 🗣
 
 Uma proposição é uma sentença afirmativa da linguagem natural, que assume um de dois valores-verdade: verdadeira (V) ou falsa (F).
