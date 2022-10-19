@@ -4,7 +4,7 @@ Implicação é a expressão que representa:
 
 - **Se... então...**.
 
-O operador de implicação também é conhecido como condicional. Pode-se considerar uma nova proposição, sendo a implicaão de A em B, essa sendo, uma proposição composta.
+O operador de implicação também é conhecido como condicional. Pode-se considerar uma nova proposição, sendo a implicação de A em B, essa sendo, uma proposição composta.
 
 Ademais, chama-se _antecedente_ a proposição que ocorre à esquerda da → (seta), ou seja, aquela que está próxima do termo **se**. A proposição que está à direita, após o **então**, chama-se de _consequente_.
 
