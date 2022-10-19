@@ -2,8 +2,7 @@
 
 ### Sistema
 
-A ideia ou conceito de sistema nos per-
-mite compreender melhor tanto a nossa situação pessoal como nosso campo de atuação profissional.
+A ideia ou conceito de sistema nos permite compreender melhor tanto a nossa situação pessoal como nosso campo de atuação profissional.
 
 Podemos começar a entender o que é um sistema analisando uma definição simples e muito usada:
 – _"sistema é um conjunto de elementos ou partes inter-relacionadas e interdependentes que interagem para atingir um fim ou objetivo."_
