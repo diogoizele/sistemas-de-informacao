@@ -24,3 +24,9 @@ O propósito da máquina artificial condiz com as funções exercidas por ela, d
 Uma civilização **meta-técnica** diz respeito a integração técnica e com o controle da lógica artificial das máquinas, redigidas por normas humanas, introduzidas progressivamente nos computadores através de uma lógica mecânica e complexa, especial para a máquina.
 
 A **corrida cega**, também chamada de corrida da tríada, na qual detém a ciência, a técnica e a industria, é por vezes descontrolada. O crescimento é descontrolado, levando o progresso ao abismo.
+
+## Síntese 🌄
+
+A extensão da lógica da máquina artificial em todos os domínios da vida humana produz o pensamento **mecanicista** que adquire forma tecnocrárica e econocrática.
+
+Tal pensamento não percebe senão a casualidade mecânica. Ele reduz o real a tudo que é quantificável.
