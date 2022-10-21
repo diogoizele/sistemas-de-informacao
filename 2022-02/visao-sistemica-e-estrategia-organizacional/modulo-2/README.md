@@ -23,3 +23,5 @@ Sistema é, na verdade, o conceito abastrato de um "todo" que pode ou não se to
 O pensamento sistêmico é de grande utilidade em bem definir o que deve ser feito.
 
 Os conceitos abordados, juntamente com o módulo anterior - [Módulo 1 - Conceitos sobre Sistemas](../modulo-1/) - permitem uma visão das **organizações como sistemas**.
+
+- Para conferir a atividade avaliativa realizada no módulo - [Clique Aqui](atividade-avaliativa.md)
