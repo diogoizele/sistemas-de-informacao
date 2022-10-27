@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Dolar
+comment1.params=nacionalidade\ cotacao
+comment1.target=Dolar(java.lang.String,\ double)
+comment2.params=reais
+comment2.target=void\ imprimeDados(double)
+numComments=3

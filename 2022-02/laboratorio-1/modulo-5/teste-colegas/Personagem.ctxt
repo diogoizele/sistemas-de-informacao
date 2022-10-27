@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Personagem
+comment1.params=n\ ra\ re\ c
+comment1.target=Personagem(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment10.params=
+comment10.target=void\ atacar()
+comment11.params=
+comment11.target=void\ imprimirDados()
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment3.params=n
+comment3.target=void\ setNome(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getRaca()
+comment5.params=ra
+comment5.target=void\ setRaca(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getReino()
+comment7.params=re
+comment7.target=void\ setReino(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getClasse()
+comment9.params=c
+comment9.target=void\ setClasse(java.lang.String)
+numComments=12

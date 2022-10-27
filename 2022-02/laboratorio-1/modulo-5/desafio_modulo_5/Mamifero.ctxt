@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Mamifero
+comment1.params=nome\ cor\ peso\ quantidadePatas\ aquatico
+comment1.target=Mamifero(java.lang.String,\ java.lang.String,\ int,\ int,\ boolean)
+comment2.params=
+comment2.target=int\ getQuantidadePatas()
+comment3.params=quantidadePatas
+comment3.target=void\ setQuantidadePatas(int)
+comment4.params=
+comment4.target=boolean\ isAquatico()
+comment5.params=aquatico
+comment5.target=void\ setAquatico(boolean)
+comment6.params=
+comment6.target=java.lang.String\ mover()
+numComments=7
