@@ -8,3 +8,4 @@ A disciplina de Laboratório I tem como objetivo a aplicação prática dos conc
 - [Módulo 02 - Modelagem e Orientação a Objetos](modulo-2/)
 - [Módulo 03 - Estruturas de Seleção](modulo-3/)
 - [Módulo 04 - Estruturas de Repetição](modulo-4/)
+- [Módulo 05 - Herança e Polimorfismo](modulo-5/)
