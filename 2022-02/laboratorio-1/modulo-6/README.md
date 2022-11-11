@@ -62,3 +62,66 @@ for (int i = 0; i < numeros.length; i++) {
     numeros[i] = (int) (Math.random() * 500);
 }
 ```
+
+## Array de Objetos
+
+O array é um objeto e os seus componentes também podem ser objetos, ou seja, podemos ter um objeto que contém uma coleção de objetos.
+
+```Java
+Pessoa[] pessoas;
+```
+
+Após a declaração acima, tem-se a variável `pessoas` na memória com o valor null, isso é, não está referenciando nenhum array. A declaração só garante que a variável tem a capacidade de referenciar um objeto do tipo declarado.
+
+```Java
+Pessoa[] pessoas = new Pessoa[10];
+```
+
+Instanciar um array de objetos é como instanciar um array de tipos primitivos, o que muda é o tipo do componente. Após a instanciação, temos na memória um array com capacidade de armazenar as referências de 10 objetos do tipo `Pessoa`.
+
+## Array Bidimensional
+
+Também denominado matriz, tem duas dimensões (as linhas e as colunas).
+Cada elemento da coleção é distinguido do outro por dois índices (que indicam a linha e a coluna), pois o nome da variável é o mesmo para todos os elementos.
+
+Em _Java_, esses índices começam sempre em zero e devem ser sempre números inteiros.
+
+### Declaração
+
+```Java
+int[][] numeros;
+```
+
+- Nessa declaração, a variável números guardará um array de inteiros. O array não foi inicializado, ou seja, não foi alocado espaço na memória para ele, por isso a posição de memória de `numeros` guarda o valor `null`. Para isso, é necessário usar o operador `new`.
+
+### Instanciação
+
+```Java
+int[][] numeros = new int[10][10];
+```
+
+Após as instanciações e atribuições acima, temos as variáveis na memória referenciando o array.
+
+Após a instanciação, viu-se que o array é alocado na memória, porém sem conteúdo, ou seja, com valores padrões. Deve-se então, preencher o array com os valores, de acordo com sua finalidade.
+
+### Atribuição
+
+```Java
+int[][] numeros = new int[10][10];
+
+numeros[0][0] = 10;
+numeros[0][1] = 20;
+numeros[0][2] = 30;
+```
+
+Muitas vezes, será necessário percorrer o array inteiro, armazenando ou manipulando dados em todas as posições. Para isso, usa-se um laço de repetição, como o `for` ou o `while`.
+
+```Java
+// Gerando valores aleatórios de 1 a 500
+
+for (int i = 0; i < numeros.length; i++) {
+    for (int j = 0; j < numeros[i].length; j++) {
+        numeros[i][j] = (int) (Math.random() * 500);
+    }
+}
+```
