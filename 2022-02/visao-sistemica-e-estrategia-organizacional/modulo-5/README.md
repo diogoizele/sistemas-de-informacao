@@ -20,7 +20,7 @@ Paraa que as organizações alcancem alguma vantagem competitiva é importante c
 4. Paraticularidades;
 5. Personalidade.
 
-Tudo que se lê em livros de administração é baseado em um ou no otro, ou nos dois juntos. Porém, eles estão obsoletos. Como eles funcionam quando você tenta usar essas abordagens diante da **nova complexidade empresarial**?
+Tudo que se lê em livros de administração é baseado em um ou no outro, ou nos dois juntos. Porém, eles estão obsoletos. Como eles funcionam quando você tenta usar essas abordagens diante da **nova complexidade empresarial**?
 
 A abordagem _hard_ é, basicamente, partir de estratégias, requerimentos, estruturas, processos, sistemas, indicadores de desempenho, scorecards, comitês, sedes, centros, grupos e tudo mais. E sempre que se cria uma nova exigência, usa-se a mesma abordagem, criando sistemas estruturais específicos, basicamente para llidar com a nova complexidade empresarial. A abordagem _hard_ só complica a organização.
 
