@@ -7,3 +7,7 @@ A atividade acadêmica Visão Sistêmica e Estratégia Organizacional aborda os 
 - [Módulo 3 - Conceitos de Estratégia e Análise Ambiental](modulo-3/)
 - [Módulo 4 - Análise dos Recursos](modulo-4/)
 - [Módulo 5 - Os tipos de Estratégias](modulo-5/)
+
+### Complemento
+
+[Clique aqui](EBook_Visao_Sistemica_completo.pdf) - para ter acesso ao livro da disciplina.
