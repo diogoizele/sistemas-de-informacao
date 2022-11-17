@@ -7,3 +7,4 @@ Esta disciplina aborda desde o entendimento dos conceitos básicos da programaç
 - [Módulo 03 - Estruturas de Seleção](modulo-3/)
 - [Módulo 04 - Estruturas de Repetição](modulo-4/)
 - [Módulo 05 - Herança e Polimorfismo](modulo-5/)
+- [Módulo 06 - Arrays](modulo-6/)
