@@ -7,6 +7,7 @@ O Sistema Operacional é o conjunto de programas que fazem a interface do usuár
 - [Módulo 03 - Sincronização de Processos](modulo-3/)
 - [Módulo 04 - Gerenciamento de Memória](modulo-4/)
 
-- **Complemento** | [Operating System](https://www.youtube.com/watch?v=vBURTt97EkA&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
+### Complemento
 
+- **Complemento** | [Operating System](https://www.youtube.com/watch?v=vBURTt97EkA&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
 - **Complemento - Livro** | [Sistemas Operacionais](08_sistemas_operacionais.pdf)
