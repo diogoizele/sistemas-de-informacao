@@ -1,5 +1,7 @@
 # Fundamentos de Sistemas Operacionais 🧱
 
+O Sistema Operacional é o conjunto de programas que fazem a interface do usuário e seus programas com o computador. Ele é responsável pelo gerenciamento de recursos e periféricos (como memória, discos, arquivos, impressoras, CD-ROMs, etc.), interpretação de mensagens e a execução de programas.
+
 - [Módulo 01 - Conceitos Iniciais](modulo-1/)
 - [Módulo 02 - Gerenciamento de Processos](modulo-2/)
 - [Módulo 03 - Sincronização de Processos](modulo-3/)
