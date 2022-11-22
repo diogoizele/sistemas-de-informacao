@@ -35,3 +35,24 @@ Para isso, a empresa deve fornecer respostas a quatro questões básicas:
 -**Perspectiva dos Processos Iternos** - as medições devem ser voltadas para os processos internos que tem maior impacto na **atração**, **retenção** e **satisfação** de clientes em segmentos-alvo de mercado, bem como para o atendimento das expectativas dos acionistas de excelentes retornos financeiros, atingindo desta forma os objetivos financeiros da empresa.
 
 - **Perspectiva do Aprendizado e Crescimento** - identifica a infraestrutura que a empresa deve construir para que gere crescimento e melhoria em longo prazo. O aprendizado e crescimento organizacional provêm de três fontes principais: pessoas, sistemas e procedimentos organiacionais.
+
+### Objetivos estratégicos
+
+Em relação ao _Balanced Scorecard_, apesar do seu processo de construção esclarecer os objetivos estratégicos, é muito difícil encontrar uma equipe gerencial que chege a um consenso total quanto à importância relativa de seus objetivos estratégicos.
+Isso é muito comum em empresas cujas diferentes áreas funcionais constituem silos funcionais isolados. Desta forma, quando executivos de áreas funcionais diferentes tentam trabalhar em equipe, surgem pontos cegos, caracterizados por áreas de relativa ignorância, em torno das quais é difícil criar um consenso e até mesmo criar equipes, visto que existe muito pouco conhecimento dos objetivos globais da empresa, bem como da contribuição e integração das diferentes unidades funcionais.
+
+### Mapas estratégicos 🗺
+
+O conceito de mapa estratégico foi criado pelos mesmos autores do _Balanced Scorecard_, caracterizando-se como uma evolução do mesmo, com o objetivo de descrever, de forma gráfica, como uma organização é capaz de criar valor.
+
+Os autores afirmam que, em média, 75% do valor de mercado das empresas resulta em seus ativos intangíveis, que localizam-se dentro da perspectiva do aprendizado e crescimento.
+
+#### Esquematizando 🩻
+
+A capacidade dos funcionários (Aprendizado e Crescimento), implica em um aumento da qualidade e diminuição do tempo (Processos Internos). Isso por sua vez, amplifica a pontualidade das entregas, gerando uma lealdade dos clientes (Clientes). Por fim, o resultado de toda essa perfórmance é o retorno sobre o capital (Financeira).
+
+Em outras palavras, o mapa estratégico, ajustado à estratégia, descreve como os ativos intangíveis impulsionam melhorias de desempenho nos processos internos da organização, que exercem o máximo de alavancagem no fornecimento de valor aos clientes, acionistas e comunidade, proporcionando, desta forma, retorno financeiro, contribuindo para a geração de valor da organização.
+
+### Monitoração e controle estratégicos
+
+A análise de mercado deve avaliar o desempenho da empresa na conquista de novos clientes, na retenção de antigos clientes, na rentabilidade por cliente, além de medir o sucesso de novos produtos ou serviços.
