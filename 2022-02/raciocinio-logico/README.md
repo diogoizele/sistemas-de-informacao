@@ -5,6 +5,7 @@ Lógica é a “ciência do raciocínio e da demonstração”, “um conjunto d
 - [Módulo 01 - Conceitos de Lógica Proposicional](modulo-1/)
 - [Módulo 02 - Argumentos válidos](modulo-2/)
 - [Módulo 03 - Conceitos da Lógica de Predicados](modulo-3/)
+- [Módulo 04 - Argumentos quantificados](modulo-4/)
 
 ### Complemento
 
