@@ -5,3 +5,4 @@ A atividade de Tecnocultura propõe o estudo, a reflexão e a compreensão acerc
 - [Módulo 01 - Paradoxos do Desenvolvimento Tecnocientífico](modulo-1/)
 - [Módulo 02 - Inteligência Coletiva e Cibercultura](modulo-2/)
 - [Módulo 03 - Formação em Tempos Digitais e Educação à Distância](modulo-3/)
+- [Módulo 04 - Tecnologias Digitais e Criatividade](modulo-4/)
