@@ -6,6 +6,7 @@ O Sistema Operacional é o conjunto de programas que fazem a interface do usuár
 - [Módulo 02 - Gerenciamento de Processos](modulo-2/)
 - [Módulo 03 - Sincronização de Processos](modulo-3/)
 - [Módulo 04 - Gerenciamento de Memória](modulo-4/)
+- [Módulo 05 - Gerenciamento de Arquivos](modulo-5/)
 
 ### Complemento
 
